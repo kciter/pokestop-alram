@@ -1,5 +1,6 @@
 # 설치
 ```sh
+# 비밀번호 입력하세요 
 $ curl -L https://raw.githubusercontent.com/kciter/pokestop-alram/master/installer.sh | sudo sh
 ```
 
