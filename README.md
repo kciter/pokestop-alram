@@ -1,9 +1,9 @@
-# ¼³Ä¡
+# ì„¤ì¹˜
 ```sh
 $ curl -L https://raw.githubusercontent.com/kciter/pokestop-alram/master/installer.sh | sudo sh
 ```
 
-# »èÁ¦
+# ì‚­ì œ
 ```sh
 $ git clone https://github.com/kciter/pokestop-alram.git
 $ cd pokestop-alram
